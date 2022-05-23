@@ -20,12 +20,13 @@ img{
 }
 #thirdDiv{
     margin: auto;
-    padding:20px 45px 20px 0px;
+    padding: 50px;
     height: 600px;
     width: 500px;
     background-color: darkorange;
     display: grid;
     justify-content:center;
+    border: 4px solid #ffff;
 }
 #spanId{
     font-size: 20px;
