@@ -18,6 +18,10 @@ h1{
 img{
     width: 400px;
 }
+a{
+    font-size: 25px;
+    color: lightblue; 
+}
 #thirdDiv{
     margin: auto;
     padding: 50px;
